@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://example.org/"
+baseurl = "https://santoshchaudhary.github.io/qryptal/"
 themesDIr = "themes"
 publishDir = "docs"
 languageCode = "en-us"
@@ -30,7 +30,7 @@ paginate = 5
 
 #[[menu.navbar]]
 #  name = "Link 1"
-#  url = "https://example.org"
+#  url = "https://santoshchaudhary.github.io/qryptal/"
 
 
 # Theme variables
