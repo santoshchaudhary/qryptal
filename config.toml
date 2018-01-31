@@ -2,6 +2,7 @@
 #
 baseurl = "https://example.org/"
 themesDIr = "themes"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Qryptal"
 theme = "bootstrap"
