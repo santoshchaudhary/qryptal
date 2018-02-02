@@ -6,73 +6,18 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://santoshchaudhary.github.io/qryptal/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://santoshchaudhary.github.io/qryptal/2014/09/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Fraud in healthcare — Information manipulation is rampant and here is how to tackle it with an elegant solution.</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2017/11/fraud-in-healthcareinformation-manipulation-is-rampant-and-here-is-how-to-tackle-it-with-an-elegant-solution./</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://santoshchaudhary.github.io/qryptal/2014/09/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://santoshchaudhary.github.io/qryptal/2014/03/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://santoshchaudhary.github.io/qryptal/2014/03/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>https://santoshchaudhary.github.io/qryptal/2018/02/second-post/</link>
-      <pubDate>Fri, 02 Feb 2018 12:45:49 +0530</pubDate>
-      
-      <guid>https://santoshchaudhary.github.io/qryptal/2018/02/second-post/</guid>
-      <description>Hi This is my second post!</description>
-    </item>
-    
-    <item>
-      <title>First Post 11</title>
-      <link>https://santoshchaudhary.github.io/qryptal/2018/01/first-post-11/</link>
-      <pubDate>Wed, 31 Jan 2018 12:38:34 +0530</pubDate>
-      
-      <guid>https://santoshchaudhary.github.io/qryptal/2018/01/first-post-11/</guid>
-      <description>Hello Welcome to my new blog, please come back.
-Thanks</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://santoshchaudhary.github.io/qryptal/2014/04/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://santoshchaudhary.github.io/qryptal/2014/04/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://santoshchaudhary.github.io/qryptal/2014/04/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://santoshchaudhary.github.io/qryptal/2014/04/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>https://santoshchaudhary.github.io/qryptal/2017/11/fraud-in-healthcareinformation-manipulation-is-rampant-and-here-is-how-to-tackle-it-with-an-elegant-solution./</guid>
+      <description>One of the areas where fraud is rampant and can have serious consequences is healthcare. Normally this manipulation of information is done for specific monetary gains — e.g inflating the bills for claiming a larger amount from insurance or medical reimbursement or even generating fictitious bills for procedures never carried out. There are also cases where doctors have been practicing impudently for years on the back of fake credentials and caused material damage to unsuspecting patients.</description>
     </item>
     
   </channel>

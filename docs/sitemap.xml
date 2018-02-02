@@ -3,38 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/2014/09/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/2014/03/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/2018/02/second-post/</loc>
-    <lastmod>2018-02-02T12:45:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/2018/01/first-post-11/</loc>
-    <lastmod>2018-01-31T12:38:34+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/2014/04/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/2014/04/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://santoshchaudhary.github.io/qryptal/2017/11/fraud-in-healthcareinformation-manipulation-is-rampant-and-here-is-how-to-tackle-it-with-an-elegant-solution./</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://santoshchaudhary.github.io/qryptal/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,62 +19,13 @@
   </url>
   
   <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://santoshchaudhary.github.io/qryptal/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://santoshchaudhary.github.io/qryptal/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://santoshchaudhary.github.io/qryptal/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
