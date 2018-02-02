@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Qryptal</title>
+    <title>Posts on  </title>
     <link>https://santoshchaudhary.github.io/qryptal/post/</link>
-    <description>Recent content in Posts on Qryptal</description>
+    <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
@@ -33,11 +33,20 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>https://santoshchaudhary.github.io/qryptal/2018/01/first-post/</link>
+      <title>Second Post</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2018/02/second-post/</link>
+      <pubDate>Fri, 02 Feb 2018 12:45:49 +0530</pubDate>
+      
+      <guid>https://santoshchaudhary.github.io/qryptal/2018/02/second-post/</guid>
+      <description>Hi This is my second post!</description>
+    </item>
+    
+    <item>
+      <title>First Post 11</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2018/01/first-post-11/</link>
       <pubDate>Wed, 31 Jan 2018 12:38:34 +0530</pubDate>
       
-      <guid>https://santoshchaudhary.github.io/qryptal/2018/01/first-post/</guid>
+      <guid>https://santoshchaudhary.github.io/qryptal/2018/01/first-post-11/</guid>
       <description>Hello Welcome to my new blog, please come back.
 Thanks</description>
     </item>
