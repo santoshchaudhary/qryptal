@@ -1,5 +1,6 @@
 body {
 	background-color: #fff;
+	font:15px/25px "Open Sans", sans-serif;
 }
 
 /* navigation */
@@ -8,8 +9,14 @@ body {
 	border-color:#fff;
 	padding: 20px 0 0;
 }
+.nav>li>a:focus, .nav>li>a:hover {
+	background-color: none;
+}
 .navbar-brand {
 	height:auto; padding: 0;
+}
+.navbar-brand>img {
+	margin-top: -10px;
 }
 .navbar-default .navbar-nav>li>a {
 	color:#fff; text-transform: uppercase; padding: 10px 25px;
@@ -18,16 +25,11 @@ body {
 	text-decoration: underline; color: #fff;
 }
 .navbar.navbar-default .navbar-collapse li a {
-	font: 600 14px/40px "Open Sans", sans-serif;
+	font: 14px/40px "Open Sans", sans-serif;
     color: #fff;
     text-transform: uppercase;
     display: inline-block;
-    padding: 0px;
-    text-shadow: none;
     background: transparent;
-    box-shadow: none;
-    border-bottom: 2px solid transparent;
-    transition: all 400ms linear 0s;
 }
 
 
@@ -37,11 +39,44 @@ body {
 	padding-top: 100px;
 }
 .blog-post {
+	padding: 0 0 50px;
+}
+h2.blog-post-title a {
+	font:25px/40px "Open Sans", sans-serif; color: #000;
+}
+h2.blog-post-title a:hover {
+	color:#000;
+}
+p.blog-post-meta {
+	color:#1C9963;
+}
+p.blog-post-meta time {
+	color:lightgray; display: block;
+}
 
+/* sidebar post */
+.blog-sidebar {
+	padding-left: 30px;
+}
+ul.list-unstyled {
+	margin: 0; padding:0;
+}
+ul.list-unstyled li {
+	padding-bottom: 20px;
 }
 
 
-
+/* pagination  */
+.blog-pagination {
+	padding: 0 0 50px;
+}
+.blog-pagination a {
+	margin-right: 30px;
+}
+.blog-pagination a.btn {
+	border-radius: 2px; border:1px solid lightgray; padding: 10px 30px;
+    font-size: 16px; color: #000;
+}
 
 /* footer area */
 .row.footer-area {
@@ -61,8 +96,11 @@ ul.nav {
 	list-style: none;
 	margin: 0;
 }
+.nav>li {
+	position: relative; display: inline-block;
+}
 .footer-top .footer_sidebar .social_icon {
-	padding-top: 37px;
+	padding-top: 25px;
 }
 .footer-top .footer_sidebar .social_icon li:first-child a{
 	padding-left: 0px;
@@ -73,8 +111,6 @@ ul.nav {
     padding: 0px 0px 0px 18px;
     opacity: 0.50;
 }
-
-
 .footer_bottom {
 	background: #242424;
     font: 400 15px/20px "Open Sans", sans-serif;
