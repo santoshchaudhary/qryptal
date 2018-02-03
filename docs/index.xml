@@ -6,17 +6,66 @@
     <description>Recent content on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2018 18:03:44 +0530</lastBuildDate>
     
 	<atom:link href="https://santoshchaudhary.github.io/qryptal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fraud in healthcare — Information manipulation is rampant and here is how to tackle it with an elegant solution.</title>
-      <link>https://santoshchaudhary.github.io/qryptal/2017/11/fraud-in-healthcareinformation-manipulation-is-rampant-and-here-is-how-to-tackle-it-with-an-elegant-solution./</link>
-      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      <title>Secure University Certificate and Transcript Solution</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2018/02/secure-university-certificate-and-transcript-solution/</link>
+      <pubDate>Sat, 03 Feb 2018 18:03:44 +0530</pubDate>
       
-      <guid>https://santoshchaudhary.github.io/qryptal/2017/11/fraud-in-healthcareinformation-manipulation-is-rampant-and-here-is-how-to-tackle-it-with-an-elegant-solution./</guid>
+      <guid>https://santoshchaudhary.github.io/qryptal/2018/02/secure-university-certificate-and-transcript-solution/</guid>
+      <description>This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.
+At Qryptal, we have been working in this space for years and feel that an ideal solution to address this problem should have the following characteristics:</description>
+    </item>
+    
+    <item>
+      <title>QR Phishing: Stop placing URLs in QR Codes when security and privacy is paramount</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2018/02/qr-phishing-stop-placing-urls-in-qr-codes-when-security-and-privacy-is-paramount/</link>
+      <pubDate>Sat, 03 Feb 2018 18:03:32 +0530</pubDate>
+      
+      <guid>https://santoshchaudhary.github.io/qryptal/2018/02/qr-phishing-stop-placing-urls-in-qr-codes-when-security-and-privacy-is-paramount/</guid>
+      <description>To make it convenient to verify, many organisations have started incorporating QR Codes containing URLs on documents issued by them.
+Examples are government issued licenses, inspection reports, insurance certificates, degree &amp;amp; transcripts, pathology reports, receipts etc.
+The idea is that when a third-party comes across this document, they can use any QR Code scanning App on their phone — scan the code and it will open the URL on the phone browser.</description>
+    </item>
+    
+    <item>
+      <title>Trustworthy credentials for lawyers and bar council members are the bedrock of a functioning legal system</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2018/02/trustworthy-credentials-for-lawyers-and-bar-council-members-are-the-bedrock-of-a-functioning-legal-system/</link>
+      <pubDate>Sat, 03 Feb 2018 18:00:12 +0530</pubDate>
+      
+      <guid>https://santoshchaudhary.github.io/qryptal/2018/02/trustworthy-credentials-for-lawyers-and-bar-council-members-are-the-bedrock-of-a-functioning-legal-system/</guid>
+      <description>For any system to function properly, we need to be able to trust and accept the parameters on which it is based. Lack of trust leads to people going down the wrong route or spending time and money to verify.
+For example, take the legal system. We go to the courts to seek redressal of a wrongdoing or crime and the court takes into account the evidence that is presented and arrives at a conclusion.</description>
+    </item>
+    
+    <item>
+      <title>How to secure and verify warehouse receipts for credit analysis and bank financing</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2018/02/how-to-secure-and-verify-warehouse-receipts-for-credit-analysis-and-bank-financing/</link>
+      <pubDate>Sat, 03 Feb 2018 17:59:30 +0530</pubDate>
+      
+      <guid>https://santoshchaudhary.github.io/qryptal/2018/02/how-to-secure-and-verify-warehouse-receipts-for-credit-analysis-and-bank-financing/</guid>
+      <description>Credit analysis is an important part of regular bank financing. While doing a credit analysis, bankers and lenders have to rely on documents to support the claims as given by the entity being examined. For example : the banker will rely on warehouse receipts to certify the inventory of finished goods or raw materials including details like product, grade, quantity etc. This is important as the value of this inventory will determine the collateral that is available as security for the financing which is extended to the borrower</description>
+    </item>
+    
+    <item>
+      <title>An elegant solution to address the problem of fake cheques</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2018/02/an-elegant-solution-to-address-the-problem-of-fake-cheques/</link>
+      <pubDate>Sat, 03 Feb 2018 17:56:44 +0530</pubDate>
+      
+      <guid>https://santoshchaudhary.github.io/qryptal/2018/02/an-elegant-solution-to-address-the-problem-of-fake-cheques/</guid>
+      <description>Isn’t it ironic that we are talking about cheque fraud in an era of high technology and instantaneous payments ? Nevertheless this is a problem that is very real even in today’s world. Cheque fraud can be of several types — counterfeit or fake cheques, using a genuine cheque but forging the signature and finally altering details of beneficiary fraudulently. In this article we will mainly focus on the first problem of counterfeit or fake cheques.</description>
+    </item>
+    
+    <item>
+      <title>Fraud in healthcare — Information manipulation is rampant and here is how to tackle it with an elegant solution.</title>
+      <link>https://santoshchaudhary.github.io/qryptal/2018/02/fraud-in-healthcareinformation-manipulation-is-rampant-and-here-is-how-to-tackle-it-with-an-elegant-solution./</link>
+      <pubDate>Fri, 02 Feb 2018 16:01:37 +0530</pubDate>
+      
+      <guid>https://santoshchaudhary.github.io/qryptal/2018/02/fraud-in-healthcareinformation-manipulation-is-rampant-and-here-is-how-to-tackle-it-with-an-elegant-solution./</guid>
       <description>One of the areas where fraud is rampant and can have serious consequences is healthcare. Normally this manipulation of information is done for specific monetary gains — e.g inflating the bills for claiming a larger amount from insurance or medical reimbursement or even generating fictitious bills for procedures never carried out. There are also cases where doctors have been practicing impudently for years on the back of fake credentials and caused material damage to unsuspecting patients.</description>
     </item>
     
