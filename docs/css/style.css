@@ -39,7 +39,8 @@ body {
 	padding-top: 100px;
 }
 .blog-post {
-	padding: 0 0 50px;
+	padding: 0 0 50px; border-bottm:1px solid rgba(0,0,0,.0785)!important;
+
 }
 h2.blog-post-title a {
 	font:25px/40px "Open Sans", sans-serif; color: #000;
@@ -58,10 +59,10 @@ p.blog-post-meta time {
 .blog-sidebar {
 	padding-left: 30px;
 }
-ul.list-unstyled {
+ol.list-unstyled {
 	margin: 0; padding:0;
 }
-ul.list-unstyled li {
+ol.list-unstyled li {
 	padding-bottom: 20px;
 }
 
