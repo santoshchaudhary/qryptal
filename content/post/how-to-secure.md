@@ -3,6 +3,11 @@ author: "Rahul Sinha"
 title: "How to secure and verify warehouse receipts for credit analysis and bank financing"
 date: 2018-02-03T17:59:30+05:30
 draft: false
+featured = "pic01.jpg"
+featuredalt = "Pic 1"
+featuredpath = "date"
+linktitle = ""
+type = "post"
 ---
 
 Credit analysis is an important part of regular bank financing. While doing a credit analysis, bankers and lenders have to rely on documents to support the claims as given by the entity being examined. For example : the banker will rely on warehouse receipts to certify the inventory of finished goods or raw materials including details like product, grade, quantity etc. This is important as the value of this inventory will determine the collateral that is available as security for the financing which is extended to the borrower
