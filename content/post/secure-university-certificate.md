@@ -7,11 +7,14 @@ draft: false
 
 This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.
 
+
 At Qryptal, we have been working in this space for years and feel that an ideal solution to address this problem should have the following characteristics:
 
 Should work on physical printed paper: 
 Often documents are required to be be submitted in physical paper format or copies are generated for printing — making electronic digital signing solutions great in theory but not too viable in practice. This may seem counter intuitive with nearly everyone carrying a smartphone but when is the last time you submitted or verified an electronic signature?
+
 With smartphones, often instead of scanning paper — users simply take a photo of the document and share it instantly. Electronic digital signatures get lost in this process of printing or taking “photos”. This is the practical reason why for a decade everyone has been hailing these electronic signing solutions as a panacea — which never delivered.
+
 Easy to validate on an ad-hoc basis: 
 If a solution requires many steps/equipment — it will simply not get used!
 Just because you make a system available for document validation, it does not mean that it will get used. 

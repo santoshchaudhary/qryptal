@@ -9,6 +9,8 @@ theme = "bootstrap"
 
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
+disqusShortname = "https-santoshchaudhary-github-io-qryptal"
+googleAnalytics = ""
 
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
