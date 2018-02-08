@@ -51,7 +51,7 @@ googleAnalytics = ""
 
   # show sharing icons on pages/posts (default: true)
   #sharingicons = true
-  imagedir = "images/"
+  imagedir = "img/"
 
 
 [params.sidebar]
