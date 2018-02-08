@@ -3,13 +3,15 @@ author: "Rahul Sinha"
 title: "QR Phishing: Stop placing URLs in QR Codes when security and privacy is paramount"
 date: 2018-02-03T18:03:32+05:30
 draft: false
-featured = "pic02.jpg"
-featuredalt = "Pic 2"
-featuredpath = "date"
-linktitle = ""
-type = "post"
+featured_image: "images/2018/02/pic03.jpg"
+featuredalt : "Pic 3"
+featuredpath : "date"
+linktitle : ""
+type : "post"
+
 ---
 
+<a href="#" class="image featured">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}
 
 To make it convenient to verify, many organisations have started incorporating QR Codes containing URLs on documents issued by them.
 

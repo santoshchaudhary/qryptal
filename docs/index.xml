@@ -17,7 +17,8 @@
       <pubDate>Sat, 03 Feb 2018 18:03:44 +0530</pubDate>
       
       <guid>https://santoshchaudhary.github.io/qryptal/2018/02/secure-university-certificate-and-transcript-solution/</guid>
-      <description>This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.
+      <description>{{if isset .Params &amp;ldquo;featured_image&amp;rdquo; }}{{ end }}
+This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.
 At Qryptal, we have been working in this space for years and feel that an ideal solution to address this problem should have the following characteristics:</description>
     </item>
     
@@ -27,7 +28,8 @@ At Qryptal, we have been working in this space for years and feel that an ideal 
       <pubDate>Sat, 03 Feb 2018 18:03:32 +0530</pubDate>
       
       <guid>https://santoshchaudhary.github.io/qryptal/2018/02/qr-phishing-stop-placing-urls-in-qr-codes-when-security-and-privacy-is-paramount/</guid>
-      <description>To make it convenient to verify, many organisations have started incorporating QR Codes containing URLs on documents issued by them.
+      <description>{{if isset .Params &amp;ldquo;featured_image&amp;rdquo; }}{{ end }}
+To make it convenient to verify, many organisations have started incorporating QR Codes containing URLs on documents issued by them.
 Examples are government issued licenses, inspection reports, insurance certificates, degree &amp;amp; transcripts, pathology reports, receipts etc.
 The idea is that when a third-party comes across this document, they can use any QR Code scanning App on their phone — scan the code and it will open the URL on the phone browser.</description>
     </item>
