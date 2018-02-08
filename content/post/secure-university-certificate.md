@@ -6,11 +6,7 @@ draft: false
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
-featured_image: "img/2018/02/pic03.jpg"
-featuredalt : "Pic 3"
-featuredpath : "date"
-linktitle : ""
-type : "post"
+
 ---
 
 
