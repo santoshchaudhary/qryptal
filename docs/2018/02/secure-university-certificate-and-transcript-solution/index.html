@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <meta property="og:title" content="Secure University Certificate and Transcript Solution" />
-<meta property="og:description" content="{{if isset .Params &ldquo;featured_image&rdquo; }}{{ end }}
+<meta property="og:description" content="{{ with .Params.featured_image }}  {{ end }}
 This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.
 At Qryptal, we have been working in this space for years and feel that an ideal solution to address this problem should have the following characteristics:" />
 <meta property="og:type" content="article" />
@@ -28,7 +28,7 @@ At Qryptal, we have been working in this space for years and feel that an ideal 
 
 
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Secure University Certificate and Transcript Solution"/>
-<meta name="twitter:description" content="{{if isset .Params &ldquo;featured_image&rdquo; }}{{ end }}
+<meta name="twitter:description" content="{{ with .Params.featured_image }}  {{ end }}
 This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.
 At Qryptal, we have been working in this space for years and feel that an ideal solution to address this problem should have the following characteristics:"/>
 <meta name="generator" content="Hugo 0.34" />
@@ -117,7 +117,11 @@ At Qryptal, we have been working in this space for years and feel that an ideal 
     <h2 class="blog-post-title"><a href="https://santoshchaudhary.github.io/qryptal/2018/02/secure-university-certificate-and-transcript-solution/">Secure University Certificate and Transcript Solution</a></h2>
     <p class="blog-post-meta"><time datetime="2018-02-03T18:03:44&#43;05:30">Sat Feb 03, 2018</time> by Rahul Sinha</p>
   </header>
-  <p><a href="#" class="image featured">{{if isset .Params &ldquo;featured_image&rdquo; }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}</p>
+  <p><a href="#" class="image featured">
+    {{ with .Params.featured_image }}
+    <img src="{{ index .Params "featured_image" }}">
+</a>
+{{ end }}</p>
 
 <p>This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.</p>
 
