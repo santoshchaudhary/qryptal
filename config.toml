@@ -12,11 +12,9 @@ paginate = 5
 disqusShortname = "https-santoshchaudhary-github-io-qryptal"
 googleAnalytics = ""
 
-
 [permalinks]
   post = "/:year/:month/:title/"
   page = "/:slug/"
-
 
 #[[menu.navbar]]
   #  name = "Link 1"
@@ -25,20 +23,21 @@ googleAnalytics = ""
 [params]
   author = "Qryptal"
   description = " "
-
-
   date_format = "Mon Jan 02, 2006"
+  sidebarBehavior = 1
+  thumbnailImage = true
+  thumbnailImagePosition = "right"
+  autoThumbnailImage = true
+  coverImage = "cover.jpg"
 
-
+  imageGallery = true
 
 
 [params.sidebar]
     about = " "
-
-    
+   
 
 #DefaultContentLanguage = "en"
-
 # Languages to render
 #[languages.en]
 #[languages.bg]
