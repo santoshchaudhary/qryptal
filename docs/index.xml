@@ -27,8 +27,7 @@ At Qryptal, we have been working in this space for years and feel that an ideal 
       <pubDate>Sat, 03 Feb 2018 18:03:32 +0530</pubDate>
       
       <guid>https://santoshchaudhary.github.io/qryptal/2018/02/qr-phishing-stop-placing-urls-in-qr-codes-when-security-and-privacy-is-paramount/</guid>
-      <description>{{if isset .Params &amp;ldquo;featured_image&amp;rdquo; }}{{ end }}
-To make it convenient to verify, many organisations have started incorporating QR Codes containing URLs on documents issued by them.
+      <description>To make it convenient to verify, many organisations have started incorporating QR Codes containing URLs on documents issued by them.
 Examples are government issued licenses, inspection reports, insurance certificates, degree &amp;amp; transcripts, pathology reports, receipts etc.
 The idea is that when a third-party comes across this document, they can use any QR Code scanning App on their phone — scan the code and it will open the URL on the phone browser.</description>
     </item>

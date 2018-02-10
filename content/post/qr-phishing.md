@@ -11,8 +11,6 @@ type : "post"
 
 ---
 
-<a href="#" class="image featured">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}
-
 To make it convenient to verify, many organisations have started incorporating QR Codes containing URLs on documents issued by them.
 
 Examples are government issued licenses, inspection reports, insurance certificates, degree & transcripts, pathology reports, receipts etc.

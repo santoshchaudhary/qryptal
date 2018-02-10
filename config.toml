@@ -29,10 +29,8 @@ googleAnalytics = ""
   thumbnailImagePosition = "right"
   autoThumbnailImage = true
   coverImage = "cover.jpg"
-
   imageGallery = true
-
-
+  
 [params.sidebar]
     about = " "
    
