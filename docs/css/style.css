@@ -3,6 +3,16 @@ body {
 	font:15px/25px "Open Sans", sans-serif;
 }
 
+@font-face{
+    font-family:'Huge';
+    src:url("../fonts/huge_agb_v5-webfont.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/huge_agb_v5-webfont.woff") format("woff"),
+    url("../fonts/huge_agb_v5-webfont.ttf") format("truetype"),
+    url("../fonts/huge_agb_v5-webfont.svg#svgFontName") format("svg")
+}
+
+
+
 /* navigation */
 .navbar-default  {
 	background-color: #1f2a3c;
@@ -46,8 +56,13 @@ body {
 	padding: 0 0 20px;
     text-align: justify;
 }
-h2.blog-post-title a {
-	font:25px/40px "Open Sans", sans-serif; color: #000;
+h2.blog-post-title {
+	font-family: "Huge",sans-serif !important;
+	font-size: 25px;
+	line-height: 40px;
+	font-weight: bold;
+	color: #000;
+	/*font:bold 25px/40px "Huge", sans-serif !important; */
 }
 h2.blog-post-title a:hover {
 	color:#000;
