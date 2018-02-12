@@ -3,7 +3,7 @@ author: "Rahul Sinha"
 title: "Secure University Certificate and Transcript Solution"
 date: 2018-02-03T18:03:44+05:30
 draft: false
-thumbnail : "static/img/cover.jpg"
+thumbnail : "cover.jpg"
 
 ---
 
