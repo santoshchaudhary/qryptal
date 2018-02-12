@@ -11,7 +11,7 @@ draft: false
 
 This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.
 
-<img src="{{ .Site.BaseURL }}img/2018/02/pic01.jpg" alt="">
+<img src="https://santoshchaudhary.github.io/qryptal/img/2018/02/pic01.jpg" alt="">
 
 At Qryptal, we have been working in this space for years and feel that an ideal solution to address this problem should have the following characteristics:
 
