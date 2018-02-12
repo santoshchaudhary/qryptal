@@ -3,13 +3,15 @@ author: "Rahul Sinha"
 title: "Secure University Certificate and Transcript Solution"
 date: 2018-02-03T18:03:44+05:30
 draft: false
-thumbnail : "cover.jpg"
+
 
 ---
 
 
 
 This is Part 3 of a series of blog posts investigating university certificate fraud and potential solutions. This part provides an overview of our secure certificate generation solution and how it addresses the issues raised earlier. Part 1 explains the problem and Part 2 investigates typical solutions deployed by universities to address same.
+
+<img src="static/img/cover.jpg" alt="">
 
 At Qryptal, we have been working in this space for years and feel that an ideal solution to address this problem should have the following characteristics:
 
